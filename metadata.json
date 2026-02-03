@@ -1,4 +1,5 @@
 {
   "name": "Restaurante Parada Obrigatória",
-  "description": "Site profissional para o restaurante Parada Obrigatória, com cardápio digital e integração direta com WhatsApp."
+  "description": "Site profissional para o restaurante Parada Obrigatória, com cardápio digital e integração direta com WhatsApp.",
+  "requestFramePermissions": []
 }
